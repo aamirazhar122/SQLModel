@@ -1,0 +1,9 @@
+sqlalchemy
+requests
+FastAPI
+psycopg2
+httpx
+pytest
+# for sqlmodel installation below
+sqlmodel
+psycopg2-binary
